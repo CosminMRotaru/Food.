@@ -4,13 +4,13 @@ A modern, responsive demo app for food delivery, featuring restaurant selection,
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-[See it live here!](https://food-delivery-demo.vercel.app)
+[See it live here!](https://foodrmc.netlify.app/)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Home Page](./screenshots/homepage.png)
 ![Menu Page](./screenshots/menu.png)
@@ -18,7 +18,7 @@ A modern, responsive demo app for food delivery, featuring restaurant selection,
 
 ---
 
-## ✨ Features
+## Features
 
 - **Restaurant selection**: Choose from multiple themed restaurants
 - **Dynamic product menus**: Browse dishes, see details and ingredients
@@ -30,7 +30,7 @@ A modern, responsive demo app for food delivery, featuring restaurant selection,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - [React](https://react.dev/)
 - [React Router](https://reactrouter.com/)
@@ -40,7 +40,7 @@ A modern, responsive demo app for food delivery, featuring restaurant selection,
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 1. **Clone the repo**
    ```bash
@@ -65,7 +65,7 @@ A modern, responsive demo app for food delivery, featuring restaurant selection,
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -79,7 +79,7 @@ src/
 
 ---
 
-## 🎨 Customization
+## Customization
 
 - **Add more restaurants/products**: Edit `src/data/restaurants.js`
 - **Change theme colors**: Update CSS variables in `index.css`
@@ -87,7 +87,7 @@ src/
 
 ---
 
-## 🚧 Limitations & Ideas for Improvement
+## Limitations & Ideas for Improvement
 
 - No real orders: demo only, form does not send data to a server
 - No authentication or user accounts
@@ -96,7 +96,7 @@ src/
 
 ---
 
-## 📖 Why This Project?
+## Why This Project?
 
 This project was built as a portfolio piece to demonstrate:
 - Clean React component architecture
@@ -106,7 +106,7 @@ This project was built as a portfolio piece to demonstrate:
 
 ---
 
-## 👤 Author
+## Author
 
 Cosmin M. Rotaru  
 [GitHub](https://github.com/CosminMRotaru)  
@@ -114,6 +114,6 @@ Cosmin M. Rotaru
 
 ---
 
-## 📝 License
+## License
 
-This project is open-source, MIT licensed – use it as you wish!
+MIT
