@@ -1,6 +1,6 @@
 # Food.
 
-A modern, responsive demo app for food delivery, featuring restaurant selection, product menus, cart management, and order placement. Built with React and Tailwind CSS. Perfect for portfolio showcase!
+A modern, responsive demo app for food delivery, featuring restaurant selection, product menus, cart management, and order placement. Built with React and Tailwind CSS.
 
 ---
 
